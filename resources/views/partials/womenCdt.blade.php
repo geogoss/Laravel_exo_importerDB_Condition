@@ -1,5 +1,5 @@
 <section class="mx-auto" style="width: 15%">
-    <h3 class="text-center">Women condition</h3>
+    <h3 class="text-center">Women entre 18 et 24 ans inclus</h3>
     <table class="table table-dark table-striped">
         <thead>
           <tr>

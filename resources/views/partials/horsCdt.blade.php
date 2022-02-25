@@ -1,5 +1,5 @@
 <section class="mx-auto" style="width: 15%">
-    <h3 class="text-center">Hors Condition</h3>
+    <h3 class="text-center">Members avant 18 ans et après 24 ans</h3>
     <table class="table table-primary table-striped">
         <thead>
           <tr>

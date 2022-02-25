@@ -1,5 +1,5 @@
 <section class="mx-auto" style="width: 15%">
-    <h3 class="text-center">Men Condition</h3>
+    <h3 class="text-center">Men 18 et 24 ans inclus</h3>
     <table class="table table-success table-striped">
         <thead>
           <tr>
